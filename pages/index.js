@@ -23,7 +23,7 @@ export default function Home() {
         <p>Hi! I&apos;m Noah &#x1F44B;</p>
           <p className={styles.maintext}>I&apos;m a Junior student-athlete at The University of Chicago, studying Economics and Computer Science, alongside playing Varisty Baseball {"("} 
           <a className={styles.baseball} href="https://athletics.uchicago.edu/sports/bsb/2021-22/bios/nelson_noah_c85d"><em>check me out!</em></a>{")"} I&apos;m also a member of Psi Upsilon!</p>
-          <p className={styles.maintext}>I currently am a Software Engineer Intern at <a href="https://riis.com/" className={styles.riis}><em>RIIS LLC</em></a>, where I develop applications specific to commerical drones!</p>
+          <p className={styles.maintext}>I previously worked as a Software Engineer Intern at <a href="https://riis.com/" className={styles.riis}><em>RIIS LLC</em></a>, where I developed applications specific to commerical drones!</p>
         <p className={styles.maintext}>I&apos;m open to Summer &apos;23 opportunities, my projects are below &#x2935; </p>
 
         <ul className={styles.Head}>
