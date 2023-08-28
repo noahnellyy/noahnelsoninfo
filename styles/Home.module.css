@@ -178,6 +178,15 @@
   width: 66%;
 }
 
+.bottomImages{
+  display: flex;
+  align-items: center;
+}
+
+.imageSpace {
+  width: 50px; 
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
