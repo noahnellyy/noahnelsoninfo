@@ -29,8 +29,9 @@ export default function Home() {
           <p className={styles.maintext}>I&apos;m actively seeking full-time positions, my projects are below &#x2935; </p>
 
         <ul className={styles.Head}>
+        <li><span className={styles.textLink}><a href="https://www.youtube.com/watch?v=zpC8Tb44zxA&t=1s"> <em>iOS War Card Game</em></a></span></li>
           <li><span className={styles.textLink}><a href="https://www.youtube.com/watch?v=BjOdJLOV0KY"> <em>Changing Drone Flight Modes Project</em></a></span></li>
-          <li><span className={styles.textLink}><a href="https://www.youtube.com/shorts/k6rhUs8MbY0"> <em>Click here for the app I built in High School</em> </a></span></li>
+          <li><span className={styles.textLink}><a href="https://www.youtube.com/shorts/k6rhUs8MbY0"> <em>iOS Mario App</em> </a></span></li>
         </ul>
 
 
