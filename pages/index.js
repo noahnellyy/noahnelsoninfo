@@ -21,12 +21,15 @@ export default function Home() {
 
 
         <p>Hi! I&apos;m Noah &#x1F44B;</p>
-          <p className={styles.maintext}>I&apos;m a Senior student-athlete at The University of Chicago, studying Economics and Computer Science, alongside playing Varsity Baseball {"("} 
-          <a className={styles.baseball} href="https://athletics.uchicago.edu/sports/baseball/roster/noah-nelson/6842"><em>check me out!</em></a>{")"} I&apos;m also the treasurer of Psi Upsilon!</p>
+          <p className={styles.maintext}>I'm currently a full-time <strong>Android Mobile Developer</strong> at 
+          <a href="https://www.grindr.com/" className={styles.riis}><em> Grindr</em></a>, where I help bring new features to the app as part of the Android Development team. I joined Grindr in April 2024 as the youngest hire on the team after graduating early from the University of Chicago with a 3.7 GPA, earning a degree in Economics and Computer Science.</p>
+          <p className={styles.maintext}>During my time at <strong>Grindr</strong>, I’ve continued to build on my passion for mobile development by contributing to high-impact features and collaborating closely with cross-functional teams to deliver innovative features that improve the user experience.</p>
+          <p className={styles.maintext}>While at the <strong>University of Chicago</strong>, I was deeply involved in various activities beyond academics. I was a student-athlete playing Varsity Baseball, where I earned All-Conference honors. Additionally, I served on the executive board of my fraternity, Psi Upsilon, as Treasurer, where I managed, organized, and oversaw all financial aspects of the organization.</p>
           <p className={styles.maintext}>In the Summer of &apos;23 I had the opportunity to work as an <strong>Android Platform Engineer Intern</strong> at 
           <a href="https://www.grindr.com/" className={styles.riis}><em> Grindr</em></a>; during my time there I was actively working with and uploading code in production. I modernized the analytics infrastructure by integrating a deprecated analytics class with the current version, optimizing it through my understanding of dependency injection and MVVM. Additionally, I led a significant project involving in-depth research, a complete redesign, and diligent testing to introduce a robust circuit breaker mechanism to enhance our application&apos;s dependability.</p>
           <p className={styles.maintext}>Before Grindr, during the summer of &apos;22, I previously worked as a <strong>Software Engineer Intern</strong> at <a href="https://riis.com/" className={styles.riis}><em>RIIS LLC</em></a>, developing applications specific to commerical drones!</p>
-          <p className={styles.maintext}>I&apos;m actively seeking full-time positions, my projects are below &#x2935; </p>
+          <p className={styles.maintext}>Although I am not actively seeking full-time positions, I am always open to exploring new opportunities, collaborations, and networking.</p>
+          <p className={styles.maintext}> My projects are below &#x2935; </p>
 
         <ul className={styles.Head}>
         <li><span className={styles.textLink}><a href="https://www.youtube.com/watch?v=zpC8Tb44zxA&t=1s"> <em>iOS War Card Game</em></a></span></li>
