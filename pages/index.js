@@ -21,7 +21,7 @@ export default function Home() {
 
 
         <p>Hi! I&apos;m Noah &#x1F44B;</p>
-          <p className={styles.maintext}>I'm currently a full-time <strong>Android Mobile Developer</strong> at 
+          <p className={styles.maintext}>I’m currently a full-time <strong>Android Mobile Developer</strong> at 
           <a href="https://www.grindr.com/" className={styles.riis}><em> Grindr</em></a>, where I help bring new features to the app as part of the Android Development team. I joined Grindr in April 2024 as the youngest hire on the team after graduating early from the University of Chicago with a 3.7 GPA, earning a degree in Economics and Computer Science.</p>
           <p className={styles.maintext}>During my time at <strong>Grindr</strong>, I’ve continued to build on my passion for mobile development by contributing to high-impact features and collaborating closely with cross-functional teams to deliver innovative features that improve the user experience.</p>
           <p className={styles.maintext}>While at the <strong>University of Chicago</strong>, I was deeply involved in various activities beyond academics. I was a student-athlete playing Varsity Baseball, where I earned All-Conference honors. Additionally, I served on the executive board of my fraternity, Psi Upsilon, as Treasurer, where I managed, organized, and oversaw all financial aspects of the organization.</p>
